@@ -15,3 +15,9 @@ var result_6 = (A >> 1); //right shift
 console.log(result_6);
 var result_7 = (A >>> 1); //Right shift with Zero
 console.log(result_7);
+//Conditional Operators
+var num = -2;
+var result_10 = num > 0 ? "positive" : "negative";
+console.log(result_10);
+var num_2 = 12;
+console.log(typeof num_2);

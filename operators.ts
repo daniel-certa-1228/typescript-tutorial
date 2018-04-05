@@ -25,3 +25,9 @@ console.log(result_7);
 
 //Conditional Operators
 
+let num:number = -2;
+let result_10 = num > 0 ? "positive":"negative";
+console.log(result_10);
+
+let num_2 = 12;
+console.log(typeof num_2);
